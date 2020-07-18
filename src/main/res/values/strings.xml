@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jadwal Kajian Ramadhan</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="tvwaktu">Waktu Pelaksanaan (YYYY-MM-DD)</string>
+    <string name="tvtempat">Tempat</string>
+    <string name="tvnama">Nama Pemberi Kajian</string>
+    <string name="hint_waktu">Masukkan Waktu Pelaksanaan</string>
+    <string name="hint_tempat">Masukkan Tempat Pelaksanaan</string>
+    <string name="hint_nama">Masukkan Nama Penceramah</string>
+    <string name="btn_simpan">SIMPAN</string>
+</resources>
